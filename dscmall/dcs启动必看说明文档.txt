@@ -1,0 +1,2 @@
+打开服务器node port.js
+一定要使用HbuilderX打开，因为要用到HbuilderX的内置服务器
